@@ -3,7 +3,7 @@ Laboratório de Desenvolvimento de Software para a Web de 2017/1.
 
 ## Obtendo o projeto
 
-`git clone https://github.com/walison-moreira-ufg/lab-dw-2017-1`
+`git clone https://github.com/igorqsilva/Minibiografia-DW-2017`
 
 ## Executando a aplicação
 
@@ -11,7 +11,7 @@ Laboratório de Desenvolvimento de Software para a Web de 2017/1.
 
 ## Acessando a aplicação
 
-Acesse `http://localhost:8080/lab-dw-2017-1` em qualquer navegador.
+Acesse `http://localhost:8080/Minibiografia-DW-2017/` em qualquer navegador.
 
 ## Como o projeto foi construído
 
